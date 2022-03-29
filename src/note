@@ -1,0 +1,3 @@
+comparator and comparable are able to use to compare and organize
+---- comparator có 2 cách dùng là dùng Anonymous inner class hoặc khởi tạo một class mới.
+-----comparator so sánh qua getter và setter.
